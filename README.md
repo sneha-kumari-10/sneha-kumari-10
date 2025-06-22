@@ -4,21 +4,19 @@
 
 ###
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashukr321&label=Profile%20views&color=0e75b6&style=flat" alt="ashukr321" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sneha-kumari-10&label=Profile%20views&color=0e75b6&style=flat" alt="sneha-kumari-10" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashukr321" alt="ashukr321" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sneha-kumari-10" alt="sneha-kumari-10" /></a> </p>
 
 ###
 
 
 <div align="center">
-  <a href="https://linkedin.com/in/ashutosh-kumar-7ba1a6211/" target="_blank">
+  <a href="https://www.linkedin.com/in/sneha108/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-  <a href="https://medium.com/@coderashukr321" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo" />
-  </a>
-  <a href="mailto:coderashukr321@gmail.com" target="_blank">
+  
+  <a href="mailto:snhsngh108@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=coderashukr321@gmail.com&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
   <a href="https://instagram.com/ashukr321" target="_blank">
