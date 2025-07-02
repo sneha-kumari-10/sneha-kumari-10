@@ -51,11 +51,5 @@
 <br />
 
 
-###
-
-## 🔥 My Stats:
-  <img class="stat-image" src="https://github-readme-streak-stats.herokuapp.com/?user=sneha-kumari-10&theme=tokyonight" height="220" alt="streak graph" />
-<br />
-<br />
 
 
