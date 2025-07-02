@@ -53,7 +53,7 @@
 **- 🌱 Currently learning Node.js, Express.js, MongoDB Firebase Clerk Authentication ** \
 *- 🏆 Hackathon Achievement: 2nd Runner-Up at Hackit AUP 2025* \
 *- 🏆 Winner at Google Developer Group Patna* \
-*- 🌐 Portfolio: [](https://sneha108.vercel.app/)*
+*- 🌐 Portfolio: [sneha](https://sneha108.vercel.app/)*
 
 <br />
 <br />
