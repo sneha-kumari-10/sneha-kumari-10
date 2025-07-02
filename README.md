@@ -44,7 +44,6 @@
 *- 👨‍ 🎓 A Computer Science Student* \
 **- 🌱 Currently learning HTML CSS JAVASCRIPT REACT TAILWIND CSS** \
 *- 🏆 Hackathon Achievement: 2nd Runner-Up at Hackit AUP 2025* \
-*- 🏆 Winner at Google Developer Group Patna* \
 *- 🌐 Portfolio: [sneha](https://sneha108.vercel.app/)*
 
 <br />
